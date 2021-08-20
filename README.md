@@ -1,4 +1,4 @@
-# COVID-19-Chest-X-Ray-Dataset
+# COVID-19 Chest X-Ray Image Dataset
 This Repository consists of Chest X-Ray images for COVID-19 patients, Pneumonia Patients and Healthy Patients.
 The dataset can be used for Identification, Classification of the Chest X-Ray Images.
 
